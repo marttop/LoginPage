@@ -1,0 +1,12 @@
+{
+  "name": "LoginPage",
+  "displayName": "LoginPage",
+  "expo": {
+    "name": "LoginPage",
+    "slug": "LoginPage",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
